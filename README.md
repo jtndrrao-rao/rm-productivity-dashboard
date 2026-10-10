@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://project-dashboard-demo.netlify.app/rm-productivity-dashboard"><img src="https://project-dashboard-demo.netlify.app/assets/rm-hero.svg" alt="RM Productivity Dashboard: Excel in, complete dashboard out" width="100%"/></a>
+<a href="https://demo-projects-dashboard-tools.netlify.app/rm-productivity-dashboard"><img src="https://demo-projects-dashboard-tools.netlify.app/assets/rm-hero.svg" alt="RM Productivity Dashboard: Excel in, complete dashboard out" width="100%"/></a>
 
 <br/><br/>
 
-<a href="https://project-dashboard-demo.netlify.app/rm-productivity-dashboard"><img src="https://img.shields.io/badge/▶_TRY_THE_LIVE_DEMO-F59E0B?style=for-the-badge&labelColor=0f172a" height="46" alt="Try the live demo"/></a>
+<a href="https://demo-projects-dashboard-tools.netlify.app/rm-productivity-dashboard"><img src="https://img.shields.io/badge/▶_TRY_THE_LIVE_DEMO-F59E0B?style=for-the-badge&labelColor=0f172a" height="46" alt="Try the live demo"/></a>
 
 <br/>
 
@@ -37,11 +37,11 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://project-dashboard-demo.netlify.app/rm-productivity-dashboard"><img src="https://project-dashboard-demo.netlify.app/assets/rm-preview-light.png" alt="RM Productivity Dashboard in light mode" width="100%"/></a>
+<a href="https://demo-projects-dashboard-tools.netlify.app/rm-productivity-dashboard"><img src="https://demo-projects-dashboard-tools.netlify.app/assets/rm-preview-light.png" alt="RM Productivity Dashboard in light mode" width="100%"/></a>
 <br/><sub><b>☀️ Light mode</b></sub>
 </td>
 <td align="center" width="50%">
-<a href="https://project-dashboard-demo.netlify.app/rm-productivity-dashboard"><img src="https://project-dashboard-demo.netlify.app/assets/rm-preview-dark.png" alt="RM Productivity Dashboard in dark mode" width="100%"/></a>
+<a href="https://demo-projects-dashboard-tools.netlify.app/rm-productivity-dashboard"><img src="https://demo-projects-dashboard-tools.netlify.app/assets/rm-preview-dark.png" alt="RM Productivity Dashboard in dark mode" width="100%"/></a>
 <br/><sub><b>🌙 Dark mode</b></sub>
 </td>
 </tr>
@@ -186,7 +186,7 @@ A flexible pivot table (Sum or Average) and a searchable RM leaderboard with **G
 
 <br/>
 
-<sub>More dashboards: <a href="https://project-dashboard-demo.netlify.app/">project-dashboard-demo.netlify.app</a> · Blog: <a href="https://exceltutorial.org">exceltutorial.org</a></sub>
+<sub>More dashboards: <a href="https://demo-projects-dashboard-tools.netlify.app/">project-dashboard-demo.netlify.app</a> · Blog: <a href="https://exceltutorial.org">exceltutorial.org</a></sub>
 
 </div>
 
